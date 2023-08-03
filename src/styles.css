@@ -182,12 +182,3 @@ a:hover {
   color: rgb(252, 248, 20);
   cursor: pointer;
 }
-
-.codeLink {
-  color: black;
-  opacity: 85%;
-}
-
-.codeLink:hover {
-  color: blue;
-}
