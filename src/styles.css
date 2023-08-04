@@ -162,6 +162,7 @@ h1 {
   text-align: center;
   margin: 15px;
   font-size: 30px;
+  opacity: 0.7;
   word-spacing: 5px;
 }
 .name {
@@ -180,4 +181,13 @@ a {
 a:hover {
   color: rgb(252, 248, 20);
   cursor: pointer;
+}
+.codeLink {
+  color: black;
+  opacity: 0.8;
+  z-index: 9999;
+}
+
+.codeLink:hover {
+  color: blue;
 }
